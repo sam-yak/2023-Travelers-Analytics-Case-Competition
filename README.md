@@ -1,1 +1,3 @@
 # 2023-Travelers-Analytics-Case-Competition
+
+In the 2023 Travelers Analytics Case Competition, organized by InsNova Auto Insurance Company, we developed a top-ranking predictive model using XGBoost, Random Forest, and logistic regression, securing 2nd place among six participating US universities. Our model achieved a Gini coefficient of 0.18195 through precise binary classification, leveraging logistic regression. Additionally, I utilized unsupervised learning techniques, such as k-means clustering, for effective customer segmentation and market analysis, driving targeted product offerings and pricing strategies. To enhance model robustness across datasets, I applied cross-validation, regularization, and regression techniques, minimizing overfitting risks.
